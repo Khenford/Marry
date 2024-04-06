@@ -1,0 +1,11 @@
+name: Marry
+api: 5.0.0
+version: 0.1
+author: Khenford
+main: Khenford\marry\Marry
+depend:
+  - FormConstructor
+
+permissions:
+  marry.command:
+    default: true
